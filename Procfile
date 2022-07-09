@@ -1,0 +1,1 @@
+web: gunnicorn Eshop.wsgi --log-file -

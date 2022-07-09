@@ -26,7 +26,7 @@ STATIC_ROOT = os.path.join(PROJECT_DIR, 'static')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["shopinify.herokuapp.com","127.0.0.1"]
 
 
 # Application definition
